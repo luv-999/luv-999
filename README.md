@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🌎 Damian | xDaemon
 
-<!--
-**xDaemon070/xDaemon070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Github Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xDaemon070&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
+<br>
 
-Here are some ideas to get you started:
+### Exeperience
+- 📝 Full-Stack Developer
+- 📝 LUA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FiveM | Experience
+- 📝 FiveM Developer
+
+### Personal Information
+- 🏡 Lives in The Netherlands - The Hague
+- 👀 Discord **@xDaemon#5381**
