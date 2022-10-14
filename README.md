@@ -13,4 +13,4 @@
 
 ### Personal Information
 - 🏡 Lives in The Netherlands - The Hague
-- 👀 Discord **@xDaemon#5381**
+- 👀 Discord **@ItsRico#7662**
