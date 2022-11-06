@@ -14,3 +14,4 @@
 ### Personal Information
 - 🏡 Lives in The Netherlands - The Hague
 - 👀 Discord **@AmiGo_xDaemon#7662**
+- 🏎️ Founder QBS F1 League Racing. Click [here](https://discord.gg/Y9cnY3UpeQ) to join!
