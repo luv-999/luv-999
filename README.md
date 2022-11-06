@@ -1,17 +1,17 @@
 ## 🌎 Damian | xDaemon
 
-#### Github Statistics
+#### Github Statistieken
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xDaemon070&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
 <br>
 
-### Exeperience
+### Ervaring
 - 📝 Full-Stack Developer
 - 📝 LUA
 
-### FiveM | Experience
+### FiveM | Ervaring
 - 📝 FiveM Developer
 
-### Personal Information
-- 🏡 Lives in The Netherlands - The Hague
+### Persoonlijke Informatie
+- 🏡 Woont in Nederland - Den Haag
 - 👀 Discord **@AmiGo_xDaemon#7662**
-- 🏎️ Founder QBS F1 League Racing. Click [here](https://discord.gg/Y9cnY3UpeQ) to join!
+- 🏎️ Founder QBS F1 League Racing. Klik [hier](https://discord.gg/Y9cnY3UpeQ) om te joinen!
