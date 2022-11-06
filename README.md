@@ -1,4 +1,4 @@
-## 🌎 Damian | xDaemon/ItsRico
+## 🌎 Damian | xDaemon
 
 #### Github Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xDaemon070&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
