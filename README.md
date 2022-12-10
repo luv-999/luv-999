@@ -14,4 +14,4 @@
 ### Persoonlijke Informatie
 - 🏡 Woont in Nederland - Den Haag
 - 👀 Discord **@AmiGo_xDaemon#7662**
-- 🏎️ Founder QBS F1 League Racing. Klik [hier](https://discord.gg/Y9cnY3UpeQ) om te joinen!
+- 🏎️ Founder QBS F1 League Racing. Klik [hier](https://discord.gg/x52DBUPydW) om te joinen!
