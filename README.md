@@ -1,10 +1,10 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
   
 <p>
-  <h1 align="center"><b>Hello there, I'm xDaemon 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Daviën Kuypers 👋</b></h1>
 </p>
 
-![GitHub](https://komarev.com/ghpvc/?username=xDaemon070&style=plastic)
+![GitHub](https://komarev.com/ghpvc/?username=luv-999&style=plastic)
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -34,13 +34,13 @@
 ---
 ### 🔴 My GitHub Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xDaemon070&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="xDaemon's Github Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luv-999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="luv-999's Github Stats">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDaemon070&show_icons=true&hide_border=true&theme=radical">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv-999&show_icons=true&hide_border=true&theme=radical">
 
 
-<a href="https://github.com/SenticAC/SenticAC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xDaemon070&repo=xDaemon070&theme=dark" />
+<a href="https://github.com/luv-999/luv-999">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=luv-999&repo=luv-999&theme=dark" />
 </a>
 
 </br></br></br></br></br></br></br></br></br>
@@ -50,10 +50,3 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 #### Thank You 🙏🏼
-
-
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC2-KH7PfPlmBiZEtNvyikNQ-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
